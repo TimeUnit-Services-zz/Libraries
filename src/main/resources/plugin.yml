@@ -1,0 +1,6 @@
+main: rip.lazze.libraries.Library
+version: 1.0
+author: rHCO
+name: TestGamer
+softdepend: [ ProtocolLib ]
+load: STARTUP

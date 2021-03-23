@@ -1,0 +1,8 @@
+Redis:
+  Host: 'localhost'
+  Password: ''
+  DbId: 0
+BackboneRedis:
+  Host: '127.0.0.1'
+  Password: ''
+  DbId: 0
